@@ -21,7 +21,7 @@ sublink:LISTSOURCE:https://1fichier.com/?2zbb31jqnlmhvpz9z3ho::LISTNAME:[COLORwh
 sublink:LISTSOURCE:https://www.youtube.com/watch?v=9pSy9ElgafE::LISTNAME:[COLORred]SHOW ME TRAILER[/COLOR]::#
 sublink:LISTSOURCE:https://oload.fun/f/wkeFIlxD26o/Poinsettias.for.Christmas.2018.720p.HDTV.x264-LifeTimeMovie.mp4::LISTNAME:[COLORwhite]SD  LINK 1 OLOAD PAIR[/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNDQxNzYwNmUtNTJjMy00Y2ZlLWIyY2MtZjMwZjhkOTEyOTEzXkEyXkFqcGdeQXVyMTQyODAxMw@@._V1_SY1000_CR0,0,776,1000_AL_.jpg</thumbnail>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTNkYjVmZTItMzIyNS00YmVkLWIyODktY2EyNjY1NTQ3MTQ2XkEyXkFqcGdeQXVyNzc2NTMwNzQ@._V1_UY268_CR110,0,182,268_AL_.jpg/thumbnail>
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
