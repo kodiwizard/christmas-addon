@@ -66,6 +66,22 @@ sublink:LISTSOURCE:https://openload.co/f/lDb617BHz-Q/Ill_Be_Next_Door_for_Christ
 <fanart>https://pbs.twimg.com/media/Dtgs7qfU4AIRAzK.jpg</fanart>
 </item>
 
+
+
+<item>
+<title>[COLORwhite]A Christmas Prince: The Royal Wedding (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=Y6U-eMDmMoc:LISTNAME:[COLORorchid]SHOW ME TRAILER[/COLOR]::#
+sublink:LISTSOURCE:https://1fhjlut.oloadcdn.net/dl/l/548OSIoToxiXP9xV/i8lzrwzEggw/A.Christmas.Prince.The.Royal.Wedding.2018.NF.WEB-DL.DDP5.1.H264-CMRG.mkv.mp4:LISTNAME:[COLORwhite]HD  LINK 1 (Direct)[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/i8lzrwzEggw:LISTNAME:[COLORwhite]HD  LINK 2  OLOAD[/COLOR]::#
+</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/14813957/p14813957_v_v8_ab.jpg</thumbnail>
+<fanart>http://www.gstatic.com/tv/thumb/v22vodart/14813957/p14813957_v_v8_ab.jpg</fanart>
+</item>
+
+
+
+
 <item>
 <title>[COLORwhite]A Christmas To Remember (2016)[/COLOR]</title>
 <link>
