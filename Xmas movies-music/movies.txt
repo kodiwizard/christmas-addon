@@ -1,6 +1,6 @@
 
 <item>
-<title>[COLORred]***Chistmas Movies***[/COLOR]</title>
+<title>[COLORpink]***Chistmas Movies***[/COLOR]</title>
 <link>http://abc</link>
 <thumbnail>https://</thumbnail>
 <fanart>http</fanart>
