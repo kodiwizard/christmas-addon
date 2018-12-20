@@ -39,3 +39,25 @@ sublink:LISTSOURCE:https://openload.co/f/r504jGCjWqI/A.Christmas.Carol.2018.1080
 <fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
 </item>
 
+<item>
+<title>[COLORwhite]A Christmas Carol (2018)[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://www.youtube.com/watch?v=HLWpzRq9mVA::LISTNAME:[COLORorchid]SHOW ME TRAILER[/COLOR]::#
+sublink:LISTSOURCE:https://uptobox.com/u5kqgc4bw6z1:LISTNAME:[COLORwhite]SD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/lELGTUG9WPY/A.Christmas.Carol.2018.1080p.WEB-DL.H264.AC3-EVO.mp4::LISTNAME:[COLORwhite]SD  LINK 2 OLOAD[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/r504jGCjWqI/A.Christmas.Carol.2018.1080p.WEB-DL.H264.AC3-EVO.mp4:LISTNAME:[COLORwhite]SD  LINK 3 OLOAD[/COLOR]::#
+</link>
+<thumbnail>https://creativefeel.co.za/wp-content/uploads/2018/11/A-Christmas-Carol.jpg</thumbnail>
+<fanart>http://supremacy.org.uk/tombraider/dogsbollocks/Icons/fanart.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLORwhite]A Christmas To Remember 2016[/COLOR]</title>
+<link>
+sublink:LISTSOURCE:https://streamango.com/f/tbnenlfoqadtlrmr/A_Christmas_to_Remember_2016_Hallmark_720p_HDTV_X264_Solar_mp4:LISTNAME:[COLORwhite]HD  LINK 1[/COLOR]::#
+sublink:LISTSOURCE:https://openload.co/f/o9Jz7WzQumM/A_Christmas_to_Remember_2016_Hallmark_720p_HDTV_X264_Solar.mp4:LISTNAME:[COLORwhite]HD  LINK 2 OLOAD[/COLOR]::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZmE5MmUwOGYtNzE2Yy00ZGJmLTliZDMtMmYzOGIzZjFkODdhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjcxODY3MTc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/waving-santa-merry-christmas-background_qkb3guv__F0000.png</fanart>
+</item>
