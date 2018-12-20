@@ -65,8 +65,8 @@ sublink:LISTSOURCE:https://streamango.com/f/paccfonmpqldoklk/Ill_Be_Next_Door_fo
 sublink:LISTSOURCE:https://streamango.com/f/bottdeskcfsnqcft::LISTNAME:[COLORwhite]HD Link 6[/COLOR]::#
 sublink:LISTSOURCE:https://openload.co/f/lDb617BHz-Q/Ill_Be_Next_Door_for_Christmas_2018_1080p_WEB-DL.mp4:LISTNAME:[COLORwhite]HD  LINK 7 OLoad[/COLOR]::#
 </link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZmE5MmUwOGYtNzE2Yy00ZGJmLTliZDMtMmYzOGIzZjFkODdhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjcxODY3MTc@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/waving-santa-merry-christmas-background_qkb3guv__F0000.png</fanart>
+<thumbnail>https://pbs.twimg.com/media/Dtgs7qfU4AIRAzK.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/Dtgs7qfU4AIRAzK.jpg</fanart>
 </item>
 
 <item>
