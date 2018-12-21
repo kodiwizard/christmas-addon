@@ -8,11 +8,11 @@
 
 
 <item>
-<title>[COLORwhite]Chrismas Songs[/COLOR]</title>
+<title>[COLORwhite]R&B Christmas Songs[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>https://www.youtube.com/watch?v=yXQViqx6GMY&list=RDQMCpRMwcnjTzY</jsonrpc>
-<thumbnail>http://files.softicons.com/download/system-icons/diffused-red-icons-by-robsonbillponte/png/512x512/Music%20icon.png</thumbnail>
-<fanart>https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/waving-santa-merry-christmas-background_qkb3guv__F0000.png</fanart>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCFhFSavHf2jORnFpL-Cwaow/playlist/PLF2r39Dp03yg92530eg0CoTBVr_nzX3yF/</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/EqNGZ9OUDTI/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/EqNGZ9OUDTI/hqdefault.jpg</fanart>
 </item>
 
 
