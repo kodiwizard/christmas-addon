@@ -12,7 +12,7 @@
 <item>
 <title>[COLORwhite]Ultimate Christmas Songs Playlist[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/UCWwQht3UsrPdHVCxInTG-Dg/playlist/PL11MclXAu-7BMKJ4vZCW2Oec3l-LI6b4s</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PL11MclXAu-7BMKJ4vZCW2Oec3l-LI6b4s</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/uGBie5pT9nw/hqdefault.jpg/thumbnail>
 <fanart>https://i.ytimg.com/vi/uGBie5pT9nw/hqdefault.jpg</fanart>
 </item>
@@ -21,7 +21,7 @@
 <item>
 <title>[COLORwhite]R&B Christmas Songs[/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/UCFhFSavHf2jORnFpL-Cwaow/playlist/PLF2r39Dp03yg92530eg0CoTBVr_nzX3yF/</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/playlist/PLF2r39Dp03yg92530eg0CoTBVr_nzX3yF/</jsonrpc>
 <thumbnail>https://i.ytimg.com/vi/EqNGZ9OUDTI/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/EqNGZ9OUDTI/hqdefault.jpg</fanart>
 </item>
