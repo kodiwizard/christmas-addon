@@ -21,22 +21,14 @@
 
 
 <channel>
-<name>[B][COLORwhite]Christmas Music[/B][/COLOR]</name>
+<name>[B][COLORwhite]Woolworths Carols In The Domain 2018[/B][/COLOR]</name>
 <thumbnail>https://cdn.dribbble.com/users/4737/screenshots/836586/music.png</thumbnail>
-<externallink>https://github.com/kodiwizard/christmas-addon/raw/master/Xmas%20movies-music/music.xml</externallink>
-<fanart>https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/waving-santa-merry-christmas-background_qkb3guv__F0000.png</fanart>
-<info></info>
-</channel>
-
-
-</channels>
-
-<item>
-<title>[COLORred]Woolworths Carols In The Domain 2018[/COLOR]</title>
 <link>
 sublink:LISTSOURCE:https://www.youtube.com/watch?v=h5RzdBPiIBA::LISTNAME:[COLORwhite]Link 1 (Youtube)[/COLOR]::#
 sublink:LISTSOURCE:https://archive.org/download/WoolworthsCarolsInTheDomain2018/Woolworths%20Carols%20In%20The%20Domain%202018%20%207plus.mp4::LISTNAME:[COLORwhite]Link 2[/COLOR]::#
 </link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOTNkYjVmZTItMzIyNS00YmVkLWIyODktY2EyNjY1NTQ3MTQ2XkEyXkFqcGdeQXVyNzc2NTMwNzQ@._V1_UY268_CR110,0,182,268_AL_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BOTNkYjVmZTItMzIyNS00YmVkLWIyODktY2EyNjY1NTQ3MTQ2XkEyXkFqcGdeQXVyNzc2NTMwNzQ@._V1_UY268_CR110,0,182,268_AL_.jpg<</fanart>
-</item>
+<fanart>https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/waving-santa-merry-christmas-background_qkb3guv__F0000.png</fanart>
+<info></info>
+</channel>
+
+</channels>
