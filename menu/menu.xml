@@ -1,6 +1,15 @@
 <meta name="rapidgator" content="a84b40bbaf6863e72c69248326bd54146ca4ffcc"/>
  
 <channels>
+
+<channel>
+<name>[B][COLORwhite]Special Events / Concerts[/B][/COLOR]</name>
+<thumbnail>https://github.com/kodiwizard/christmas-addon/raw/master/Special%20Xmas%20events/special%20event.xml</thumbnail>
+<externallink>https://github.com/kodiwizard/christmas-addon/raw/master/Xmas%20movies-music/music.xml</externallink>
+<fanart>https://i.postimg.cc/c1hZ6q6g/image.png</fanart>
+<info></info>
+</channel>
+
  
 <channel>
 <name>[B][I][COLORred]Christmas Movies[/B][/I][/COLOR]</name>
@@ -20,16 +29,5 @@
 </channel>
 
 
-<channel>
-<name>[B][COLORwhite]Woolworths Carols In The Domain 2018[/B][/COLOR]</name>
-<thumbnail>https://cdn.dribbble.com/users/4737/screenshots/836586/music.png</thumbnail>
-<link>https://www.youtube.com/watch?v=h5RzdBPiIBA</link>
-<fanart>https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/waving-santa-merry-christmas-background_qkb3guv__F0000.png</fanart>
-<info></info>
-</channel>
 
 </channels>
-
-<!-- 
-::LISTNAME:[COLORwhite]Link 1 (Youtube)[/COLOR]::#
-sublink:LISTSOURCE:https://archive.org/download/WoolworthsCarolsInTheDomain2018/Woolworths%20Carols%20In%20The%20Domain%202018%20%207plus.mp4::LISTNAME:[COLORwhite]Link 2[/COLOR]::# -->
